@@ -7,7 +7,7 @@ Mais de 100 exercícios do básico ao intermediário para treinar Python.
 
 ## Para rodar o programa
 > ```
-> 	python nomedoarquivo.py
+>python nomedoarquivo.py
 > ```
 
 
