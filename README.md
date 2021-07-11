@@ -4,7 +4,7 @@
 - Usar uma IDE para executar o código
 - Python instalado 
 
-> ## Para rodar o programa
+## Para rodar o programa
 > ```
 > 	python nomedoarquivo.py
 > ```
