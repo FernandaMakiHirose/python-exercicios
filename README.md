@@ -2,8 +2,7 @@
 Mais de 100 exercícios do básico ao intermediário para treinar Python.
 
 ## Pré-requisitos 
-- Usar uma IDE para executar o código
-- Python instalado 
+- IDE e Python instalados. 
 
 ## Para rodar o programa
 > ```
